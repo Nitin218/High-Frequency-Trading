@@ -33,5 +33,5 @@ Robustness in Real-world Environments: Ensuring robustness in real-world trading
 Proximal Policy Optimization (PPO) Algorithm: Application of the Proximal Policy Optimization algorithm to train the DRL agent effectively.
 Reinforcement Learning Methodologies: Demonstrating proficiency in reinforcement learning methodologies to optimize agent behavior.
 
-
+**Click on the image below to see the video:**
 [![HFT](http://img.youtube.com/vi/qC0yzduebLU/0.jpg)](http://www.youtube.com/watch?v=qC0yzduebLU"HFT")
